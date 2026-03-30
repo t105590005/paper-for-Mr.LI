@@ -1,0 +1,12 @@
+% \addcontentsline{toc}{chapter}{參考文獻}
+% \renewcommand{\bibname}{參考文獻}
+
+\clearpage
+\phantomsection
+
+% 強制印出 reference.bib 裡面的所有文獻（即使正文還沒用 \cite 引用也會印出來）
+% 等到未來正文寫完且都有確實引用後，可以把 \nocite{*} 這行註解掉
+\nocite{*} 
+
+% 印出 APA 格式的參考文獻，並自動將「參考文獻」加入目錄中
+\printbibliography[title={參考文獻}, heading=bibintoc]
