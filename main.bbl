@@ -1,0 +1,465 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{knuth:1984}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec08e6f01da5f3814f28a70c89c64656}{%
+           family={Knuth},
+           familyi={K\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{fullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{fullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{bibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorbibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authornamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorfullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorfullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Computer Journal}
+      \field{number}{2}
+      \field{title}{Literate Programming}
+      \field{volume}{27}
+      \field{year}{1984}
+      \true{nocite}
+      \field{pages}{97\bibrangedash 111}
+      \range{pages}{15}
+    \endentry
+    \entry{texbook}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec08e6f01da5f3814f28a70c89c64656}{%
+           family={Knuth},
+           familyi={K\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{fullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{fullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{bibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorbibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authornamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorfullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorfullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {\TeX} Book}
+      \field{year}{1986}
+    \endentry
+    \entry{latex2e}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5d77435450d10a850a5b58577b9a456b}{%
+           family={Lamport},
+           familyi={L\bibinitperiod},
+           given={Leslie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison Wesley}%
+      }
+      \strng{namehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \strng{bibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorbibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authornamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{{\LaTeX}: a Document Preparation System}
+      \field{year}{1994}
+    \endentry
+    \entry{latex:companion}{book}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=9355edd511e3f6fdd880ee98722a53fb}{%
+           family={Mittelbach},
+           familyi={M\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=003561fe84c7d8769348b09c408571a5}{%
+           family={Gossens},
+           familyi={G\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d52f183a29af96d48695b8bea23e66e1}{%
+           family={Braams},
+           familyi={B\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3094f4812cc660f7320fd1ab3d3da906}{%
+           family={Carlisle},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0907be26d21af9e9c3820d51f421fe33}{%
+           family={Rowley},
+           familyi={R\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{f6d3f5d3a9cc39507a7ff2f9963883dc}
+      \strng{fullhash}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \strng{fullhashraw}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \strng{bibnamehash}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \strng{authorbibnamehash}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \strng{authornamehash}{f6d3f5d3a9cc39507a7ff2f9963883dc}
+      \strng{authorfullhash}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \strng{authorfullhashraw}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{The {\LaTeX} Companion}
+      \field{year}{2004}
+      \true{nocite}
+    \endentry
+    \entry{10379000}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ab26ea276dd092108bc9882d0f3195c3}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60e89c08957c5f1016253ba3ee24f79c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Weiqi},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ade6b4972bf4967d1d436a3086c47e1}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b2a084df47b2e2c7f3fb5a18a027283}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haiming},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa4e6641f1d25925b83ff129ff833526}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cd36b80081581a610ff8bcd28a2bdecb}
+      \strng{fullhash}{54ff36503fd3e4ce168aa7323903c4d5}
+      \strng{fullhashraw}{54ff36503fd3e4ce168aa7323903c4d5}
+      \strng{bibnamehash}{54ff36503fd3e4ce168aa7323903c4d5}
+      \strng{authorbibnamehash}{54ff36503fd3e4ce168aa7323903c4d5}
+      \strng{authornamehash}{cd36b80081581a610ff8bcd28a2bdecb}
+      \strng{authorfullhash}{54ff36503fd3e4ce168aa7323903c4d5}
+      \strng{authorfullhashraw}{54ff36503fd3e4ce168aa7323903c4d5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Antennas and Propagation}
+      \field{number}{3}
+      \field{title}{Machine-Learning-Assisted Optimization for Antenna Geometry Design}
+      \field{volume}{72}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{2083\bibrangedash 2095}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/TAP.2023.3346493
+      \endverb
+      \keyw{Antennas;Geometry;Optimization;Evolutionary computation;Broadband antennas;Topology;Microstrip antennas;Antennas;convolutional neural network (CNN);geometry;machine learning (ML);mutual coupling}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{knuth:1984}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec08e6f01da5f3814f28a70c89c64656}{%
+           family={Knuth},
+           familyi={K\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{fullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{fullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{bibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorbibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authornamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorfullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorfullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Computer Journal}
+      \field{number}{2}
+      \field{title}{Literate Programming}
+      \field{volume}{27}
+      \field{year}{1984}
+      \true{nocite}
+      \field{pages}{97\bibrangedash 111}
+      \range{pages}{15}
+    \endentry
+    \entry{texbook}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec08e6f01da5f3814f28a70c89c64656}{%
+           family={Knuth},
+           familyi={K\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{fullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{fullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{bibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorbibnamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authornamehash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorfullhash}{ec08e6f01da5f3814f28a70c89c64656}
+      \strng{authorfullhashraw}{ec08e6f01da5f3814f28a70c89c64656}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {\TeX} Book}
+      \field{year}{1986}
+    \endentry
+    \entry{latex2e}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5d77435450d10a850a5b58577b9a456b}{%
+           family={Lamport},
+           familyi={L\bibinitperiod},
+           given={Leslie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison Wesley}%
+      }
+      \strng{namehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \strng{bibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorbibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authornamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{{\LaTeX}: a Document Preparation System}
+      \field{year}{1994}
+    \endentry
+    \entry{latex:companion}{book}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=9355edd511e3f6fdd880ee98722a53fb}{%
+           family={Mittelbach},
+           familyi={M\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=003561fe84c7d8769348b09c408571a5}{%
+           family={Gossens},
+           familyi={G\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d52f183a29af96d48695b8bea23e66e1}{%
+           family={Braams},
+           familyi={B\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3094f4812cc660f7320fd1ab3d3da906}{%
+           family={Carlisle},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0907be26d21af9e9c3820d51f421fe33}{%
+           family={Rowley},
+           familyi={R\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{f6d3f5d3a9cc39507a7ff2f9963883dc}
+      \strng{fullhash}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \strng{fullhashraw}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \strng{bibnamehash}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \strng{authorbibnamehash}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \strng{authornamehash}{f6d3f5d3a9cc39507a7ff2f9963883dc}
+      \strng{authorfullhash}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \strng{authorfullhashraw}{5ca2063a1b65512eabbef05c2b4c15ce}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{The {\LaTeX} Companion}
+      \field{year}{2004}
+      \true{nocite}
+    \endentry
+    \entry{10379000}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ab26ea276dd092108bc9882d0f3195c3}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60e89c08957c5f1016253ba3ee24f79c}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Weiqi},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ade6b4972bf4967d1d436a3086c47e1}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b2a084df47b2e2c7f3fb5a18a027283}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haiming},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa4e6641f1d25925b83ff129ff833526}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cd36b80081581a610ff8bcd28a2bdecb}
+      \strng{fullhash}{54ff36503fd3e4ce168aa7323903c4d5}
+      \strng{fullhashraw}{54ff36503fd3e4ce168aa7323903c4d5}
+      \strng{bibnamehash}{54ff36503fd3e4ce168aa7323903c4d5}
+      \strng{authorbibnamehash}{54ff36503fd3e4ce168aa7323903c4d5}
+      \strng{authornamehash}{cd36b80081581a610ff8bcd28a2bdecb}
+      \strng{authorfullhash}{54ff36503fd3e4ce168aa7323903c4d5}
+      \strng{authorfullhashraw}{54ff36503fd3e4ce168aa7323903c4d5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Antennas and Propagation}
+      \field{number}{3}
+      \field{title}{Machine-Learning-Assisted Optimization for Antenna Geometry Design}
+      \field{volume}{72}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{2083\bibrangedash 2095}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/TAP.2023.3346493
+      \endverb
+      \keyw{Antennas;Geometry;Optimization;Evolutionary computation;Broadband antennas;Topology;Microstrip antennas;Antennas;convolutional neural network (CNN);geometry;machine learning (ML);mutual coupling}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
